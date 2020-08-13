@@ -4,7 +4,7 @@
   "scripts": {},
   "dependencies": {
     "@ibm-functions/iam-token-manager": "1.0.4",
-    "async": "2.1.4",
+    "async": "2.6.3",
     "dotenv": "4.0.0",
     "node-zip": "1.1.1",
     "openwhisk": "3.20.0",
